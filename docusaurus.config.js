@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://nhbrill.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,8 +21,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nhbrill', // Usually your GitHub org/user name.
-  projectName: 'brill-docs', // Usually your repo name.
-
+  projectName: 'nhbrill.github.io', // Usually your repo name.
+  trailingSlash: false;
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
