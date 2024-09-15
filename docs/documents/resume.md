@@ -51,7 +51,7 @@ Bootstrap and Knockout to build the necessary software, and C# and MongoDB to st
 - **Agile:** Experience on scrum and kanban teams.
 - **Languages:** Proficient in Spanish
 ## ACTIVITIES
-- Robotics Competitions: Sea Perch Robotics, FRCSparkfun AVC
-Volunteered in Costa Rica: Planted mangrove trees to preserve Costa Rica’s beaches and ecosystem with EF Tours
-- Habitat for Humanity: Helped build a house for families in need in Mesa Arizona.
-- Organizations: Member of Theta Tau Chi Professional engineering Fraternity, member of Tau Kappa Epsilon
+- **Robotics Competitions:** Sea Perch Robotics, FRCSparkfun AVC
+- **Volunteered in Costa Rica:** Planted mangrove trees to preserve Costa Rica’s beaches and ecosystem with EF Tours
+- **Habitat for Humanity:** Helped build a house for families in need in Mesa Arizona.
+- **Organizations:** Member of Theta Tau Chi Professional engineering Fraternity, member of Tau Kappa Epsilon
