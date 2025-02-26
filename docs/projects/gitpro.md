@@ -20,7 +20,6 @@ After cloning the code locally from the main repo, follow these steps:
     2. this is **important** make sure to commit and push
     3. type ```git status``` to see if they were added
 4. Edit ```README.md```
-![Watch](./img/howtoview.png)
 
 5. what to do next
     1. ```git add .```

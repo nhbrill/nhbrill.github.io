@@ -17,7 +17,3 @@ Clone the repo ```https://github.com/nhbrill/stacks-queues-java.git```
 ```StackInterface s = new ListStack();```<br />
 ```QueueInterface q = new ListQueue();```<br />
 
-
-
-
-
