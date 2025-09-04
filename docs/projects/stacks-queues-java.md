@@ -1,4 +1,4 @@
-# Stacks and Queues in Java
+# Stacks & Queues in Java
 To implement an int queue and stack backed by a array and linked list.
 https://github.com/nhbrill/stacks-queues-java
 
