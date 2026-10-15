@@ -1,6 +1,6 @@
 # Certifications
 <hr></hr>
-## AWS Certified Web Practitioner
+## AWS Certified Cloud Practitioner
 ![AWSCCP](./img/awsccp.png)
-## Splunk Certified Power User
+## Splunk Core Certified Power User
 ![SPLUNK](./img/splunkcert.jpg)
