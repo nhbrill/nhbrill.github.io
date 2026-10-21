@@ -110,12 +110,12 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Projects',
-                to: '/docs/category/projects',
-              },
-              {
                 label: 'Documents',
                 to: '/docs/category/documents',
+              },
+              {
+                label: 'Projects',
+                to: '/docs/category/projects',
               },
             ],
           },
